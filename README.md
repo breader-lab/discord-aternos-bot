@@ -47,3 +47,5 @@ The license is the Unlicense. I fully consent to you modifying, copying, selling
 Good luck and have fun :)
 
 Translated with DeepL.com
+
+The translation may be incorrect
