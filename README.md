@@ -12,12 +12,12 @@
 
 Это бот, который может через ваш аккаунт, включать сервер, прямой командой из вашего с друзьями чата!  Просто напечатайте /start и вы можете играть.
 
-И вы спросите, а не легче и будет если все друзья зарегистрируются в Aternos? Нет, не легче. Ведь им надо заходить на сайт, нажать кнопку, поймать момент когда можно включить сервер... и всё в этом духе. Ну а если кто-то захочет что то сделать с сервером, у него не получится :). Ваш SMP в безопасности.
+И вы спросите, а не легче ли будет если все друзья зарегистрируются в Aternos? Нет, не легче. Ведь им надо заходить на сайт, нажать кнопку, поймать момент когда можно включить сервер... и всё в этом духе. Ну а если кто-то захочет что то сделать с сервером, у него не получится :). Ваш SMP в безопасности.
 
 !Внимание!
 Код писал Claude, поэтому могут быть проблемы! Я сам не программист, но вы можете посмотреть в репозиториях мои сайты, которые я сам лично разрабатывал без ии. Просто свои личные знания.
 
-Я прикрепил гайд, как настроить бота, и всего бота, чтобы вы могли сделать своего бота! Только вам понадобится сервер, чтобы бот был всегда включен и готов к получению команд. Я рекомендую Oracle Cloud Free Tier. Это АБСОЛЮТНО БЕСПЛАТНО, ЗДЕСЬ НЕТ ПРОБНОГО ПЕРИОДА, но если вам нужно больше, вы можете использовать и платные сервисы Oracle.
+Я прикрепил гайд, как настроить бота, чтобы вы могли сделать своего бота! Только вам понадобится сервер, чтобы бот был всегда включен и готов к получению команд. Я рекомендую Oracle Cloud Free Tier. Это АБСОЛЮТНО БЕСПЛАТНО, ЗДЕСЬ НЕТ ПРОБНОГО ПЕРИОДА, но если вам нужно больше, вы можете использовать и платные сервисы Oracle.
 
 Указана лицензия лицензия Unlicense. Я полностью даю согласие, чтобы вы могли изменять, копировать, продавать или что нибудь ещё.
 
@@ -40,7 +40,7 @@ And you might ask, wouldn’t it be easier if all your friends signed up for Ate
 !Warning!
 Claude wrote the code, so there might be issues! I’m not a programmer myself, but you can check out my websites in the repositories—I developed them all myself without AI. Just using my own personal knowledge.
 
-I’ve attached a guide on how to set up the bot, and the entire bot, so you can make your own bot! You’ll just need a server so the bot is always on and ready to receive commands. I recommend Oracle Cloud Free Tier. It’s ABSOLUTELY FREE, THERE’S NO TRIAL PERIOD, but if you need more, you can also use Oracle’s paid services.
+I’ve attached a guide on how to set up the bot, so you can make your own bot! You’ll just need a server so the bot is always on and ready to receive commands. I recommend Oracle Cloud Free Tier. It’s ABSOLUTELY FREE, THERE’S NO TRIAL PERIOD, but if you need more, you can also use Oracle’s paid services.
 
 The license is the Unlicense. I fully consent to you modifying, copying, selling, or doing anything else with it.
 
